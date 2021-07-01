@@ -57,13 +57,13 @@ There are **at least 8 bugs** in this assignment, do your best to track down and
 
 Below is a list of requirements explaining what the application should do:
 
-- [ ] No errors in the browser console
+- [x] No errors in the browser console
 
 > _**Note:** keep the console open as you play the game so that you can see the randomly generated "target number"_
 
 <img src="instructions/game-play/step-1.png" alt="Game Play: Step 1" width="600" />
 
-- [ ] At the start, the "reset" button and all of the "messages" should be hidden
+- [x] At the start, the "reset" button and all of the "messages" should be hidden
 
 <img src="instructions/game-play/step-2.png" alt="Game Play: Step 2" width="600" />
 
